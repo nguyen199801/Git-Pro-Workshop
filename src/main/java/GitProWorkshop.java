@@ -2,7 +2,7 @@ public class GitProWorkshop {
     public static void main(String[] args) {
 
         greet("Greetings!");
-        count("sadge");
+        count("sadge", "lick");
         cheer("Sadge");
     }
 
