@@ -3,7 +3,7 @@ public class GitProWorkshop {
 
         greet("Greetings!");
         count("sadge", "lick");
-        cheer("Sadge");
+        cheer("Sadge","Nem choose Sadge language");
     }
 
     public static void greet(String name) {
@@ -19,8 +19,8 @@ public class GitProWorkshop {
         System.out.println(message);
     }
 
-    public static void cheer(){
-        System.out.println("Sadge");
-        System.out.println("Nem choose Sadge language");
+    public static void cheer(String str1 , String str2){
+        System.out.println(str1);
+        System.out.println(str2);
     }
 }
