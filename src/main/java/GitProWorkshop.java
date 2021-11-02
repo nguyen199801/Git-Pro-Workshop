@@ -1,13 +1,13 @@
 public class GitProWorkshop {
     public static void main(String[] args) {
 
-        greet("Greetings!");
+        greet("sadge", "sadge");
         count("sadge", "lick");
         cheer("Sadge");
     }
 
-    public static void greet(String name) {
-        System.out.println(name);
+    public static void greet(String firstName, String lastName) {
+        System.out.println(firstName + lastName);
     }
 
     public static void count(String param, String param2) {
