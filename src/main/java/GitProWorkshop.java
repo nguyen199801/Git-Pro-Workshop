@@ -1,7 +1,7 @@
 public class GitProWorkshop {
     public static void main(String[] args) {
 
-        greet("Nguyen Nguyen");
+        greet("Greetings!");
         count("sadge");
         cheer("Sadge");
     }
