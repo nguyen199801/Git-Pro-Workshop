@@ -3,6 +3,7 @@ public class GitProWorkshop {
 
         greet("Nguyen Nguyen");
         count("sadge");
+        cheer("Sadge");
     }
 
     public static void greet(String name) {
@@ -13,7 +14,7 @@ public class GitProWorkshop {
         System.out.println("Vu Pham");
         System.out.println("Nem is " + param + " without Nhi");
     }
-    public void cheer(){
-        System.out.println("Sadge");
+    public void cheer(String message){
+        System.out.println(message);
     }
 }
