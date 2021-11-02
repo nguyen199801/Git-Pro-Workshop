@@ -10,9 +10,9 @@ public class GitProWorkshop {
         System.out.println(name);
     }
 
-    public static void count(String param) {
+    public static void count(String param, String param2) {
         System.out.println("Vu Pham");
-        System.out.println("Nem is " + param + " without Nhi");
+        System.out.println("Nem is " + param + " without Nhi" + param2);
         System.out.println(10);
     }
     public static void cheer(String message) {
