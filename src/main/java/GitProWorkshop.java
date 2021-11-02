@@ -15,10 +15,11 @@ public class GitProWorkshop {
         System.out.println("Nem is " + param + " without Nhi");
         System.out.println(10);
     }
-    public void cheer(String message) {
+    public static void cheer(String message) {
         System.out.println(message);
     }
-        public void cheer(){
+
+    public static void cheer(){
         System.out.println("Sadge");
         System.out.println("Nem choose Sadge language");
     }
