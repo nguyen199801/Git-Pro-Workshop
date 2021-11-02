@@ -10,4 +10,7 @@ public class GitProWorkshop {
     public void count() {
         System.out.println("Vu Pham");
     }
+    public void cheer(){
+        System.out.println("Sadge");
+    }
 }
